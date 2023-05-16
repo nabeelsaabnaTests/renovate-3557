@@ -1,4 +1,5 @@
 {
+  "dependencyDashboard": true,
   "packageRules": [
     {
       "matchPackageNames": ["github.com/DataDog/datadog-go"],
